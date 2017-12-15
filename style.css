@@ -99,7 +99,7 @@ input[type="text"] {
     box-shadow: 0px 2px 5px 0px #303030;
     font-size: 16px;
     background-color: white;
-    background-image: url('search_icon.png');
+    background-image: url('src/search_icon.png');
     background-position: right;
     background-repeat: no-repeat;
     margin-right:20px;
